@@ -1,15 +1,3 @@
-'''
-    CISC-121 2022F
-
-    Name: Kashan Rauf
-    Student Number: 20369391
-    Email: 22kr11@queensu.ca
-    Date: 2022-09-26
-
-    I confirm that this assignment solution is my own work and conforms to
-    Queen's standards of Academic Integrity
-'''
-
 # Open a file for reading
 file = open("friendship.txt", "r") # "r"
 line = file.readline()

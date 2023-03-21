@@ -1,15 +1,3 @@
-"""
-    CISC-121 2022F
-
-    Name: Kashan Rauf
-    Student Number: 20369391
-    Email: 22kr11@queensu.ca
-    Date: 2022-09-26
-
-    I confirm that this assignment solution is my own work and conforms to
-    Queen's standards of Academic Integrity
-"""
-
 # Using a function to confirm validity of input.
 def is_valid(num) :
     num = int(num)
